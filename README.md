@@ -1,0 +1,2 @@
+# SimpleHtmlDom
+php使用simple_html_dom抓取网页数据的一个Demo
